@@ -18,3 +18,7 @@ zk 零知识证明
 ## Nice docs
 
 * 介绍 Accumulator: <https://zhuanlan.zhihu.com/p/601973839>
+
+## Nice videos
+
+* KZG Commitment: <https://www.bilibili.com/video/BV1M24y1y7BP>
