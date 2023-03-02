@@ -7,7 +7,7 @@ zk 零知识证明
 ## 前置知识
 
 * 初等数论和群论：推荐 [MIT’s 6.875 (Foundations of Cryptography)](https://mit6875.github.io/HANDOUTS/numbertheory.pdf), 中文推荐<初等数论> 闵嗣鹤版，参考潘承洞版。<近世代数 (抽象代数)> 韩士安版
-* Cryptographic primitives(密码学基础), 例如：哈希函数、加密签名以及 Accumulator（即 Merkle 树）等概念，当然有过实操的更好。
+* Cryptographic primitives(密码学基础), 例如：哈希函数、加密签名以及 Accumulator（即 Merkle 树）等概念，当然有过实操的更好。<图解密码技术>
 * 基本代数概念，多项式是重中之重！包括：特点，基本运算等。参考学习内容：多项式乘法和除法、拉格朗日插值、Schwartz–Zip–pel 引理、快速傅立叶变换（FFT）、NTT、MSM 以及 Field extension 等。
 
 ## 课程
