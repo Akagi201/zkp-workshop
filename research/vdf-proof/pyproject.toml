@@ -1,0 +1,21 @@
+[tool.pdm]
+[tool.pdm.dev-dependencies]
+dev = [
+    "black>=23.1.0",
+]
+
+[project]
+name = "vdf-proof"
+version = "0.1.0"
+description = "vdf zk proof mvp"
+authors = [
+    {name = "Akagi201", email = "akagi201@gmail.com"},
+]
+dependencies = []
+requires-python = ">=3.11"
+readme = "README.md"
+license = {text = "MIT"}
+
+[build-system]
+requires = ["pdm-pep517>=1.0"]
+build-backend = "pdm.pep517.api"
