@@ -1,5 +1,7 @@
 # zkp-workshop
 
+[![Python CI](https://github.com/Akagi201/zkp-workshop/actions/workflows/ci.yml/badge.svg)](https://github.com/Akagi201/zkp-workshop/actions/workflows/ci.yml) [![Super Linter](https://github.com/Akagi201/zkp-workshop/actions/workflows/super_linter.yml/badge.svg)](https://github.com/Akagi201/zkp-workshop/actions/workflows/super_linter.yml)
+
 zkp theory, books and mostly codes.
 
 zk 零知识证明
