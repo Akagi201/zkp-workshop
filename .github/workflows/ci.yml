@@ -27,7 +27,9 @@ jobs:
           enable-pep582: true
       
       - name: Install deps
-        run: pdm install
+        run: |
+          cd research
+          pdm install
       
       - name: Format check
         uses: jpetrucciani/black-check@master
