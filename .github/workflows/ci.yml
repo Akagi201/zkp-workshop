@@ -25,7 +25,6 @@ jobs:
         with:
           architecture: x64
           enable-pep582: true
-          cache: true
       
       - name: Install deps
         run: pdm install
