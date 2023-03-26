@@ -28,7 +28,7 @@ jobs:
       
       - name: Install deps
         run: |
-          cd research
+          cd research/vdf-proof
           pdm install
       
       - name: Format check
