@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 from permuted_tree import (
     merkelize,
     mk_branch,

@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 from merkle_tree import merkelize as _merkelize
 from merkle_tree import mk_branch as _mk_branch
 from merkle_tree import verify_branch as _verify_branch

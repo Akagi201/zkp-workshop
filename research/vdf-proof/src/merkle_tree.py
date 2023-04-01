@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 try:
     from hashlib import blake2s
 except:

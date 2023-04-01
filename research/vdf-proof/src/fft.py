@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 def _simple_ft(vals, modulus, roots_of_unity):
     L = len(roots_of_unity)
     o = []

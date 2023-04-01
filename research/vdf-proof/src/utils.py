@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 from merkle_tree import blake
 
 

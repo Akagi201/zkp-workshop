@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # Creates an object that includes convenience operations for numbers
 # and polynomials in some prime field
 class PrimeField:
