@@ -35,19 +35,24 @@ def verify(y, g, p, pf):
 
 def parse_args():
     parser = argparse.ArgumentParser()
+    parser.add_argument('-x', type=int, help='The exponent value x for DLog proof', required=True)
+    parser.add_argument('-g', type=int, help='The generator g for DLog proof', required=True)
+    parser.add_argument('-p', type=int, help='The modulus p for DLog proof', required=True)
     args = parser.parse_args()
     return args
 
 def main(args=None):
-    x = 123
-    g = 2
-    p = 541
+    # Get arguments for DLog proof
+    x = args.x
+    g = args.g
+    p = args.p
+
     # Generate the proof
     y, pf = dlogProof(x, g, p)
 
     # Verify the proof
     assert verify(y, g, p, pf) == True
-    
+    print("Assertion succeeded: The proof is valid")
 
 if __name__ == "__main__":
     sys.exit(main(parse_args()))
