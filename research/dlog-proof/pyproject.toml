@@ -1,0 +1,20 @@
+[tool.pdm]
+[tool.pdm.dev-dependencies]
+dev = [
+    "ruff>=0.0.17",
+]
+
+[project]
+name = "dlog-proof"
+version = "0.1.0"
+description = "zkp for discrete logs"
+authors = [
+    {name = "Akagi201", email = "akagi201@gmail.com"},
+]
+dependencies = []
+readme = "README.md"
+license = {text = "MIT"}
+
+[build-system]
+requires = ["pdm-pep517>=1.0"]
+build-backend = "pdm.pep517.api"
