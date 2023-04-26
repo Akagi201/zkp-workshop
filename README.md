@@ -21,6 +21,12 @@ zk 零知识证明
 
 * 介绍 Accumulator: <https://zhuanlan.zhihu.com/p/601973839>
 * 人人都能看懂的密码学：<https://github.com/guoshijiang/cryptography>
+* <https://medium.com/yearofzk/rust-guide-evaluating-multilinear-extensions-via-lagrange-interpolation-725ce9d5ff97>
+* <https://medium.com/yearofzk/rust-guide-sum-check-protocol-18ceb8affdb2>
+
+## Nice Books
+
+* [Proofs, Arguments and Zero-Knowledge](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf)
 
 ## Nice videos
 
