@@ -1,0 +1,35 @@
+{
+  "name": "circuits",
+  "version": "0.1.0",
+  "description": "Zk app circuits",
+  "main": "dist/src/index.js",
+  "types": "src/index.ts",
+  "author": "Bob Liu <akagi201@gmail.com>",
+  "scripts": {
+    "format": "rome format --write .",
+    "check": "rome ci *",
+    "test": "ts-mocha -p tsconfig.json test/**/*.ts --timeout 30000 --exit",
+    "pretest": "tsc -p tsconfig.json",
+    "precompile": "scripts/prerequisites.sh && mkdir -p zk/circuits zk/zkeys zk/verifiers",
+    "postbuild": "cp zk/zkeys/main.zkey ../app/public && cp zk/circuits/main_js/main.wasm ../app/public",
+    "compile": "for circuit in circuits/*.circom; do circom $circuit --r1cs --sym --wasm -o zk/circuits;done && tsc",
+    "export:sample-zkey": "for circuit in zk/circuits/*.r1cs; do snarkjs groth16 setup $circuit powersOfTau28_hez_final_15.ptau zk/zkeys/$(basename -- $circuit .r1cs).zkey;done",
+    "export:verifier": "for zkey in zk/zkeys/*.zkey; do snarkjs zkey export solidityverifier $zkey zk/verifiers/$(basename -- $zkey .zkey | perl -nE 'say ucfirst').sol;done",
+    "build": "yarn compile && yarn export:sample-zkey && yarn export:verifier"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@ethersproject/abstract-signer": "^5.7.0",
+    "circomlib": "^2.0.5",
+    "circomlibjs": "^0.1.7",
+    "ethers": "^5.7.2",
+    "snarkjs": "^0.6.10"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.3.5",
+    "@types/mocha": "^10.0.1",
+    "chai": "^4.3.7",
+    "rome": "^12.0.0",
+    "ts-mocha": "^10.0.0"
+  }
+}
