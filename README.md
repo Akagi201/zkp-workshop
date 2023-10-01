@@ -24,6 +24,16 @@ zk 零知识证明
 * <https://medium.com/yearofzk/rust-guide-evaluating-multilinear-extensions-via-lagrange-interpolation-725ce9d5ff97>
 * <https://medium.com/yearofzk/rust-guide-sum-check-protocol-18ceb8affdb2>
 * <https://zkp.science/>
+* [ZkpComRef](https://docs.zkproof.org/reference.pdf) - ZKProof Community Reference
+
+## zk wiki
+
+* <https://www.ingonyama.com/ingopedia/zkbeginner>
+* <https://www.zkdocs.com/>
+
+## zk practices
+
+* <https://zkhack.dev/zkhackIII/>
 
 ## Nice Books
 

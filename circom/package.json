@@ -22,14 +22,14 @@
     "@ethersproject/abstract-signer": "^5.7.0",
     "circomlib": "^2.0.5",
     "circomlibjs": "^0.1.7",
-    "ethers": "^5.7.2",
-    "snarkjs": "^0.6.10"
+    "ethers": "^6.7.1",
+    "snarkjs": "^0.7.1"
   },
   "devDependencies": {
-    "@types/chai": "^4.3.5",
-    "@types/mocha": "^10.0.1",
-    "chai": "^4.3.7",
-    "rome": "^12.0.0",
+    "@types/chai": "^4.3.6",
+    "@types/mocha": "^10.0.2",
+    "chai": "^4.3.10",
+    "rome": "^12.1.3",
     "ts-mocha": "^10.0.0"
   }
 }
