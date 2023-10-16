@@ -38,6 +38,7 @@ zk 零知识证明
 ## Nice Books
 
 * [Proofs, Arguments and Zero-Knowledge](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf)
+* <https://www.rareskills.io/zk-book>
 
 ## Nice videos
 
