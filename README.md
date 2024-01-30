@@ -16,6 +16,8 @@ zk 零知识证明
 
 * 《[麻省理工学院 IAP 2023] 现代零知识密码学》: <https://zkiap.com/#34e5b6cf6e1d4dd3901940d4be2edb0b>
 * 0xPARC 课程：<http://learn.0xparc.org/>
+* <https://www.slmath.org/summer-schools/1037#schedule_notes>
+* <https://pratyushmishra.com/classes/cis-7000-f23/>
 
 ## Nice docs
 
@@ -25,6 +27,7 @@ zk 零知识证明
 * <https://medium.com/yearofzk/rust-guide-sum-check-protocol-18ceb8affdb2>
 * <https://zkp.science/>
 * [ZkpComRef](https://docs.zkproof.org/reference.pdf) - ZKProof Community Reference
+* Real-World Cryptography
 
 ## zk wiki
 
