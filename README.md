@@ -42,6 +42,7 @@ zk 零知识证明
 
 * [Proofs, Arguments and Zero-Knowledge](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf)
 * <https://www.rareskills.io/zk-book>
+* <https://github.com/erhant/circom101> - <https://circom.erhant.me/>
 
 ## Nice videos
 
