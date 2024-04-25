@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "ed25519-keys",
+]
+resolver = "2"

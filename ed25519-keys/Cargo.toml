@@ -1,0 +1,12 @@
+[package]
+name = "ed25519-keys"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+base64 = "0.22.0"
+ed25519-dalek = { version = "2.1.1", features = ["pkcs8"]}
+hex = "0.4.3"
+ring = "0.17.8"

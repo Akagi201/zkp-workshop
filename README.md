@@ -18,6 +18,7 @@ zk 零知识证明
 * 0xPARC 课程：<http://learn.0xparc.org/>
 * <https://www.slmath.org/summer-schools/1037#schedule_notes>
 * <https://pratyushmishra.com/classes/cis-7000-f23/>
+* <https://www.coursera.org/learn/crypto>
 
 ## Nice docs
 
@@ -28,6 +29,8 @@ zk 零知识证明
 * <https://zkp.science/>
 * [ZkpComRef](https://docs.zkproof.org/reference.pdf) - ZKProof Community Reference
 * Real-World Cryptography
+* <https://explained-from-first-principles.com/number-theory/#outline>
+* <https://crypto.stanford.edu/pbc/notes/numbertheory/>
 
 ## zk wiki
 
@@ -43,6 +46,13 @@ zk 零知识证明
 * [Proofs, Arguments and Zero-Knowledge](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf)
 * <https://www.rareskills.io/zk-book>
 * <https://github.com/erhant/circom101> - <https://circom.erhant.me/>
+* <https://cryptobook.nakov.com/>
+* <https://www.google.co.in/books/edition/Cryptography_Engineering/nnqdQsrZnJgC>
+* <https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_5.pdf>
+
+## Nice papers
+
+* <https://medium.com/@ingonyama/deep-dive-into-the-latest-msm-hardware-implementation-a9739b2cd107>
 
 ## Nice videos
 
