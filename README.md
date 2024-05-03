@@ -61,3 +61,8 @@ zk 零知识证明
 * <初等数论> p1: <https://www.bilibili.com/video/BV1gR4y197ks/>
 * <初等数论> p2: <https://www.bilibili.com/video/BV1F14y1N73j/>
 * 程序员数学进阶 (机器学习基础): <https://www.bilibili.com/video/BV117411p7KZ/>
+
+## Nice projects
+
+* <https://dev.to/teddav/tornado-cash-with-halo2-62b>
+* <https://github.com/pluto/ronkathon>
