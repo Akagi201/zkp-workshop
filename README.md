@@ -49,6 +49,7 @@ zk 零知识证明
 * <https://cryptobook.nakov.com/>
 * <https://www.google.co.in/books/edition/Cryptography_Engineering/nnqdQsrZnJgC>
 * <https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_5.pdf>
+* <https://hash-based-snargs-book.github.io/>
 
 ## Nice papers
 
