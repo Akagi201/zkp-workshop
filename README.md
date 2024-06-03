@@ -20,6 +20,10 @@ zk 零知识证明
 * <https://pratyushmishra.com/classes/cis-7000-f23/>
 * <https://www.coursera.org/learn/crypto>
 
+## zkvm
+
+* <https://www.lita.foundation/blog/zero-knowledge-paradigm-zkvm>
+
 ## Nice docs
 
 * 介绍 Accumulator: <https://zhuanlan.zhihu.com/p/601973839>
@@ -31,6 +35,7 @@ zk 零知识证明
 * Real-World Cryptography
 * <https://explained-from-first-principles.com/number-theory/#outline>
 * <https://crypto.stanford.edu/pbc/notes/numbertheory/>
+* <https://news.zksecurity.xyz/> - zk aggregated news
 
 ## zk wiki
 
