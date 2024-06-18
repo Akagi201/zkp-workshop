@@ -56,6 +56,9 @@ zk 零知识证明
 * <https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_5.pdf>
 * <https://hash-based-snargs-book.github.io/>
 * <https://github.com/hash-based-snargs-book/hash-based-snargs-book>
+* <https://zkhack.dev/zk-study-group-moonmath-manual/>
+* <https://aszepieniec.github.io/stark-brainfuck/>
+* <https://www.amazon.com/Group-Theory-Bedroom-Mathematical-Diversions/dp/0809052172>
 
 ## Nice papers
 
