@@ -35,7 +35,7 @@ zk 零知识证明
 * Real-World Cryptography
 * <https://explained-from-first-principles.com/number-theory/#outline>
 * <https://crypto.stanford.edu/pbc/notes/numbertheory/>
-* <https://news.zksecurity.xyz/> - zk aggregated news
+* <https://github.com/odradev/awesome-zero-knowledge>
 
 ## zk wiki
 
@@ -75,4 +75,17 @@ zk 零知识证明
 ## Nice projects
 
 * <https://dev.to/teddav/tornado-cash-with-halo2-62b>
-* <https://github.com/pluto/ronkathon>
+* <https://github.com/pluto/ronkathon> - zk, crypto by hand
+
+## ZK languages
+
+* <https://github.com/microbecode/zk-languages>
+
+## ZK Rollups
+
+* <https://www.zkrollups.xyz/>
+
+## zk weekly
+
+* <https://zknewsletter.com/>
+* <https://news.zksecurity.xyz/> - zk aggregated news
