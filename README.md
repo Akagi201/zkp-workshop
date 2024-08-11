@@ -36,6 +36,7 @@ zk 零知识证明
 * <https://explained-from-first-principles.com/number-theory/#outline>
 * <https://crypto.stanford.edu/pbc/notes/numbertheory/>
 * <https://github.com/odradev/awesome-zero-knowledge>
+* <https://blog.lambdaclass.com/diving-deep-fri/> - stark by hand
 
 ## zk wiki
 
@@ -80,6 +81,7 @@ zk 零知识证明
 ## ZK languages
 
 * <https://github.com/microbecode/zk-languages>
+* <https://github.com/argumentcomputer/sphinx> - lurk on sp1
 
 ## ZK Rollups
 
