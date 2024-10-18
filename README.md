@@ -91,3 +91,7 @@ zk 零知识证明
 
 * <https://zknewsletter.com/>
 * <https://news.zksecurity.xyz/> - zk aggregated news
+
+## Circom tools
+
+* <https://circuitscan.org/>
