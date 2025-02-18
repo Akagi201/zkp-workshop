@@ -60,6 +60,7 @@ zk 零知识证明
 * <https://zkhack.dev/zk-study-group-moonmath-manual/>
 * <https://aszepieniec.github.io/stark-brainfuck/>
 * <https://www.amazon.com/Group-Theory-Bedroom-Mathematical-Diversions/dp/0809052172>
+* <https://github.com/Koukyosyumei/MyZKP> - <https://koukyosyumei.github.io/MyZKP/index.html> build zkp from scratch in rust
 
 ## Nice papers
 
